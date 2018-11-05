@@ -2,6 +2,6 @@
 test
 ```javascript
 while () {
-alert("Test)
+alert("Test")
 }
 ```
