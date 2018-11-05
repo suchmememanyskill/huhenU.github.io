@@ -1,7 +1,2 @@
 # huhenU.github.io
-test
-```javascript
-while () {
-alert("Test")
-}
-```
+<h1>Test</h1>
